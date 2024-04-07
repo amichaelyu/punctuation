@@ -1,7 +1,7 @@
 {
   "name": "punctuation",
   "version": "0.1.0",
-  "homepage": "https://itsmichaelyu.github.io/punctuation",
+  "homepage": "https://amichaelyu.github.io/punctuation",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
